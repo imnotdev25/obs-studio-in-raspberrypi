@@ -3,6 +3,8 @@
 
 Hi my Script Install OBS Studio Fast as funk boi.
 
+Just Give it Star 🌟🌟🌟
+
 Simply wget <repo> or git clone <repo> 
 
 Let's make Bash Script Executable.
